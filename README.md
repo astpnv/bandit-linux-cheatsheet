@@ -5,7 +5,7 @@
 Personal command reference from the first 15 levels of [OverTheWire Bandit](https://overthewire.org/wargames/bandit/).  
 This is a **cheat sheet of commands I actually used**, not a walkthrough. No flags, no passwords, no copy-paste solutions.
 
-| | |
+
 |---|---|
 | Lab | [bandit.labs.overthewire.org](https://overthewire.org/wargames/bandit/) · port `2220` |
 | Progress | Level 0 → 15 |
